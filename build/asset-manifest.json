@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dining_menu/static/css/main.ddc81914.chunk.css",
+    "main.js": "/dining_menu/static/js/main.0819093c.chunk.js",
+    "main.js.map": "/dining_menu/static/js/main.0819093c.chunk.js.map",
+    "runtime-main.js": "/dining_menu/static/js/runtime-main.b96ad5d7.js",
+    "runtime-main.js.map": "/dining_menu/static/js/runtime-main.b96ad5d7.js.map",
+    "static/css/2.983f79de.chunk.css": "/dining_menu/static/css/2.983f79de.chunk.css",
+    "static/js/2.885f47d3.chunk.js": "/dining_menu/static/js/2.885f47d3.chunk.js",
+    "static/js/2.885f47d3.chunk.js.map": "/dining_menu/static/js/2.885f47d3.chunk.js.map",
+    "static/js/3.84a9e158.chunk.js": "/dining_menu/static/js/3.84a9e158.chunk.js",
+    "static/js/3.84a9e158.chunk.js.map": "/dining_menu/static/js/3.84a9e158.chunk.js.map",
+    "index.html": "/dining_menu/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/dining_menu/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.ddc81914.chunk.css.map": "/dining_menu/static/css/main.ddc81914.chunk.css.map",
+    "static/js/2.885f47d3.chunk.js.LICENSE.txt": "/dining_menu/static/js/2.885f47d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b96ad5d7.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.885f47d3.chunk.js",
+    "static/css/main.ddc81914.chunk.css",
+    "static/js/main.0819093c.chunk.js"
+  ]
+}

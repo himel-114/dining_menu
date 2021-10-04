@@ -1,0 +1,8 @@
+.image_class{
+    height: 15rem;
+    transition: 1s;
+}
+
+.image_class:hover{
+    transform: scale(1.1);
+}
